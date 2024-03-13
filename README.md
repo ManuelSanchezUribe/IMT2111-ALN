@@ -1,14 +1,14 @@
-# IMT2111-ALN
-## Algebra Lineal Numerica
+# IMT2111-ALN, Algebra Lineal Numerica, 2024
+## Manuel A. Sanchez
 
-
-# Jupyter Notebooks Clases:
+# Jupyter Notebooks - Clases:
 
 ## Capitulo 1: Fundamentos de Algebra Lineal Numerica
 
 - [Problema de Poisson: Diferencias finitas](Clases/Capitulo1_Diferencias_Finitas.ipynb)
-- [Problema de Poisson: Elementos Finitos](Clases/)
+- [Problema de Poisson: Elementos Finitos](Clases/Capitulo1_Elementos_Finitos.ipynb)
 - [Transformada de Fourier](Clases/Capitulo1_FFT_JPEG.ipynb)
+- [Formato sparse en python](Clases/Capitulo1_sparse.ipynb)
 
 
 # Ayudantias
