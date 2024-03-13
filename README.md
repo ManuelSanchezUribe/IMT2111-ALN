@@ -6,4 +6,4 @@
 
 ## Capitulo 1: Fundamentos de Algebra Lineal Numerica
 
-- (Diferencias finitas)[Clases/Capitulo1_Diferencias_Finitas.ipynb]
+- [Diferencias finitas](Clases/Capitulo1_Diferencias_Finitas.ipynb)
