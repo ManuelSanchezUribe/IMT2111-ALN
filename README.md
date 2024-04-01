@@ -9,7 +9,8 @@
 - [Problema de Poisson: Elementos Finitos](Clases/Capitulo1_Elementos_Finitos.ipynb)
 - [Transformada de Fourier](Clases/Capitulo1_FFT_JPEG.ipynb)
 - [Formato sparse en python](Clases/Capitulo1_sparse.ipynb)
-
+- [Eliminacion Gaussiana](Clases/Capitulo1_Eliminacion_Gaussiana.ipynb)
+- [Factorizacion QR](Clases/Capitulo1_Factorizacion_QR.ipynb)
 
 # Ayudantias
 
