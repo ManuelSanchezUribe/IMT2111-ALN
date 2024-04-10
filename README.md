@@ -17,4 +17,4 @@
 - [Ayudantia 1]()
 
 # Clase slides
-- [Clase de SVD y PCA](Clases/ClasesSVD.pdf)
+- [Clase de SVD y PCA](Clases/claseSVD.pdf)
