@@ -11,6 +11,9 @@
 - [Formato sparse en python](Clases/Capitulo1_sparse.ipynb)
 - [Eliminacion Gaussiana](Clases/Capitulo1_Eliminacion_Gaussiana.ipynb)
 - [Factorizacion QR](Clases/Capitulo1_Factorizacion_QR.ipynb)
+- [PCA]()
+- [Regularizacion](Clases/Capitulo1_regularizacion.ipynb)
+- [Image deblurring](Clases/Capitulo1_image_deblurring.ipynb)
 
 # Ayudantias
 
