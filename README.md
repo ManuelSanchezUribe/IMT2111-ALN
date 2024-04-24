@@ -15,6 +15,14 @@
 - [Regularizacion](Clases/Capitulo1_regularizacion.ipynb)
 - [Image deblurring](Clases/Capitulo1_image_deblurring.ipynb)
 
+  ## Capitulo 2: Metodos Iterativos para resolver sistemas lineales
+
+- [Metodos Iterativos basicos](Clases/Capitulo2_Metodos_Iterativos_Basicos.ipynb)
+-
+
+
+
+
 # Ayudantias
 
 - [Ayudantia 1]()
